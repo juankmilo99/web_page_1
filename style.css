@@ -1,0 +1,25 @@
+.contenedor{
+    height: 30rem;
+    width: 30rem;
+    background-color: #33CBCC;
+  border-radius: 22%;
+    margin: 0 auto;
+}
+.cabeza{
+    width: 15rem;
+    height: 13rem;
+    position: relative;
+    top: 6.5rem;
+    left: 7.5rem;
+    background-color: #FFF;
+    border-radius: 7rem 7rem 0 0;
+
+}
+.pecho{
+    width: 15rem;
+    height: 10.5rem;
+    position: relative;
+    top: 6.5rem;
+    left: 7.5rem;
+    background-color: #009ED6;
+}
